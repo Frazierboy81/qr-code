@@ -1,42 +1,42 @@
 body {
-    background-color: rgb(193, 203, 233);
-    padding-left: 790px;
-    padding-right: 750px;
-    padding-top: 200px;
-    padding-bottom: 100px;   
+  background-color: rgb(193, 203, 233);
+  padding-left: 790px;
+  padding-right: 750px;
+  padding-top: 200px;
+  padding-bottom: 100px;
 }
 
 section {
-    display: flex;
-    justify-content: center;
-    align-items: center;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .header {
-    display: flex;
-    justify-content: center;
-    font-size: 14px;
-    text-align: center;
-    padding-right: 16px;
-    padding-left: 16px;
-    font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  font-size: 14px;
+  text-align: center;
+  padding-right: 16px;
+  padding-left: 16px;
+  font-family: sans-serif;
 }
 img {
-    padding-top: 20px;
-    padding-bottom: 10px;
-    padding-right: 16px;
-    padding-left: 16px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-radius: 30px;
 }
 
 main {
-    background-color: aliceblue;
-    border-radius: 25px;
+  background-color: aliceblue;
+  border-radius: 25px;
 }
 .qr-code {
-    text-align: center;
-    padding-bottom: 45px;
-    padding-right: 32px;
-    padding-left: 32px;
-    color: rgb(95, 104, 104);
-    
+  text-align: center;
+  padding-bottom: 45px;
+  padding-right: 32px;
+  padding-left: 32px;
+  color: rgb(95, 104, 104);
 }
